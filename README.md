@@ -1,13 +1,10 @@
 # Isomorphic-with-wordpress
-- environment
-Apache2.4 + WordPress5.2 + PHP7.2 / MySQL5.7
+React + Next.js with the environment shown below
 
-- development mode
+## Env: Apache2.4 + WordPress5.2 + PHP7.2 / MySQL5.7
+- run
 ```
 > docker-compose up -d
+> npm install
 > npm run dev
 ```
-
-## WordPress
-- usage
-APIエンドポイントエラー時はパーマリンクの設定をデフォルトから変更すること。
