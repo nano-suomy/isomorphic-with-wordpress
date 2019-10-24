@@ -8,3 +8,10 @@ React + Next.js with the environment shown below
 > npm install
 > npm run dev
 ```
+
+- wordpress
+login info
+```
+user_name: user
+password: pass
+```
