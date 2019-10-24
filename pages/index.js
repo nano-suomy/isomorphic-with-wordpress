@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 const Index = () => <section>
     <h1>Hello, Next.js!</h1>
-    <Link href='/articles'>
+    <Link href='/article'>
         <a>Click here to start fetch from WordPress by using WP API</a>
     </Link>
     <style jsx>{`
